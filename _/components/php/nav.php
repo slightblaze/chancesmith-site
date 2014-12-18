@@ -18,14 +18,22 @@
         <li class="dropdown">
           <a href="#" class="dropdown-toggle" data-toggle="dropdown">Projects <b class="caret"></b></a>
           <ul class="dropdown-menu">
+            <!-- <li><a href="/project/">Availability App</a></li> -->
+            <li><a href="/project/signature-app">Email Signature Creator</a></li>
+            <li><a href="/project/project-my-sales">Project My Sales</a></li>
+            
+            <li class="divider"></li>
+            <li class="dropdown-header">Employers/Clients</li>
             <li><a href="http://sodiumhalogen.com">Sodium Halogen</a></li>
+            <li><a href="http://smoothieking.com">Smoothie King</a></li>
+            <li><a href="http://medinabuzz.com">Medina Buzz</a></li>
+            
+            <li class="divider"></li>
+            <li class="dropdown-header">Side Work</li>
             <li><a href="http://betterjoblanding.com">Better Job Landing</a></li>
             <li><a href="http://wolfgangcomputer.com">Wolfgang Computer</a></li>
-            <li><a href="http://smoothieking.com">Smoothie King</a></li>
-            <li class="divider"></li>
-            <li class="dropdown-header">Other Projects</li>
+            <li><a href="http://thismedinahome.com">This Medina Home</a></li>
             <li><a href="http://mollysmith.org">MollySmith.org</a></li>
-            <li><a href="/project/project-my-sales">Project My Sales</a></li>
           </ul>
         </li>
       </ul>
