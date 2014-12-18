@@ -5,8 +5,11 @@ Give a tool to your clients so they can build out every email signature they nee
 Will be able to either copy the front in view or click the button at the bottom to have the HTML version copied to their clipboard.
 
 #Demo
-signature app: http://chancesmith.org/project/signature-app/
-example static signature: http://chancesmith.org/project/signature-app/code.html
+signature app: 
+http://chancesmith.org/project/signature-app/
+
+example static signature: 
+http://chancesmith.org/project/signature-app/code.html
 
 #Steps to setup your own email signature
 
