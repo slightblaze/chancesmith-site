@@ -1,0 +1,140 @@
+body {
+  padding-top: 70px;
+}
+.project .chancesmith {
+  background: url('/images/chance-smith.jpg') right no-repeat;
+  background-color: #fff;
+}
+.project .chancesmith .btn-primary {
+  background-color: #fff;
+  border-color: #ccc;
+  color: #ccc;
+}
+@media (max-width: 320px) {
+  .project .chancesmith {
+    background: url('/images/chance-smith-mobile.jpg') right no-repeat;
+    background-size: 623px;
+    background-position: -276px;
+  }
+}
+@media (min-width: 321px) and (max-width: 480px) {
+  .project .chancesmith {
+    background-size: 690px;
+    background-position: right -20px;
+  }
+}
+@media (min-width: 481px) and (max-width: 767px) {
+  .project .chancesmith {
+    background-size: 690px;
+    background-position: right -20px;
+  }
+}
+@media (min-width: 768px) and (max-width: 991px) {
+  .project .chancesmith {
+    background-size: 690px;
+    background-position: 68px;
+  }
+}
+@media (min-width: 992px) and (max-width: 1200px) {
+  .project .chancesmith {
+    background-size: 690px;
+    background-position: 263px;
+  }
+}
+.project .sh {
+  background-color: #000;
+  background: url('/images/chalk.jpg');
+  background-size: 1140px;
+  color: #fff;
+}
+.project .sh .btn-primary {
+  background: none;
+  border-color: #fff;
+}
+.project .bjl {
+  background-color: #3c539c;
+  color: #fff;
+}
+.project .bjl .btn-primary {
+  background-color: #3c539c;
+  border-color: #fff;
+}
+.project .wcs {
+  background-color: #353535;
+  color: #fff;
+}
+.project .wcs .btn-primary {
+  background-color: #353535;
+  border-color: #fff;
+}
+.project .sk {
+  background-color: #b90000;
+  color: #fff;
+}
+.project .sk .btn-primary {
+  background-color: #b90000;
+  border-color: #fff;
+}
+.tool .dropbox {
+  background-color: #008BD3;
+  color: #fff;
+}
+.tool .dropbox .btn-primary {
+  background-color: #008BD3;
+  border-color: #fff;
+}
+.tool .evernote {
+  background-color: #4B8C2A;
+  background: url('/images/evernote.jpg');
+  background-size: 1140px;
+  position: relative;
+  color: #fff;
+}
+.tool .evernote .btn-primary {
+  background-color: #fff;
+  border-color: #fff;
+  color: #4B8C2A;
+}
+.tool .st3 {
+  background-color: #252525;
+  background-image: url('/images/st3-faded.jpg');
+  background-size: 1180px;
+  color: #fff;
+}
+.tool .st3 .btn-primary {
+  background-color: #252525;
+  border-color: #fff;
+}
+.sideProjects .pms {
+  background-color: #4e79e7;
+  color: #fff;
+}
+.sideProjects .pms .btn-primary {
+  background-color: #4e79e7;
+  border-color: #fff;
+}
+.bucketListDone {
+  background: #77d07c;
+}
+.orange {
+  color: #ea4f1e;
+}
+.centered {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  margin-top: -50px;
+  margin-left: -215px;
+}
+.centered h1,
+.centered p {
+  text-align: center;
+}
+homeImg {
+  display: block;
+  margin: 0 auto;
+  width: 80%;
+}
+.droid {
+  font-family: 'Droid Serif', serif;
+}
