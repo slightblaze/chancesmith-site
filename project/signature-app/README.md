@@ -4,6 +4,12 @@ Give a tool to your clients so they can build out every email signature they nee
 
 Will be able to either copy the front in view or click the button at the bottom to have the HTML version copied to their clipboard.
 
+#Demo
+signature app: http://chancesmith.org/project/signature-app/
+example static signature: http://chancesmith.org/project/signature-app/code.html
+
+#Steps to setup your own email signature
+
 1) Build the signature your client wants in code.html.
 
 2) Minify the html. 
@@ -17,3 +23,6 @@ Done.
 The heavy lifting is in the design of code.html.
 
 As of right now you'll have to feel your way around your minifed code into the right variables. Remeber, there can be no single quotes in your HTML.
+
+#Email Signature Images
+Don't use relative image links (src="/../img.png"). Use full paths (yousite.com/images/img.png)
