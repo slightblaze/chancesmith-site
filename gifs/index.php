@@ -3,7 +3,7 @@
 	
 </head>
 <body>
-
+<?php include ('_/components/php/google-analytics.php'); ?>
 <?php
    $files = glob("*.gif");
 
