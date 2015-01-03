@@ -41,6 +41,26 @@ body {
     background-position: 263px;
   }
 }
+.project .blog {
+  background-color: #000;
+  background: url('/images/best_notes.jpg');
+  background-size: 1140px;
+  color: #fff;
+}
+.project .blog .btn-primary {
+  background: none;
+  border-color: #fff;
+}
+.project .workshop {
+  background-color: #000;
+  background: url('/images/chalk.jpg');
+  background-size: 1140px;
+  color: #fff;
+}
+.project .workshop .btn-primary {
+  background: none;
+  border-color: #fff;
+}
 .project .sh {
   background-color: #000;
   background: url('/images/chalk.jpg');

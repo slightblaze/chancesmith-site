@@ -5,9 +5,6 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Test Every Idea | ChanceSmith.org</title>
-    
-    <!-- Google font -->
-    <link href='http://fonts.googleapis.com/css?family=Droid+Serif:400,700' rel='stylesheet' type='text/css'>
 
     <!-- Bootstrap -->
     <link href="_/css/bootstrap.css" rel="stylesheet">
@@ -23,25 +20,45 @@
   </head>
   <body>
     <?php include ('_/components/php/nav.php'); ?>
-    
-    <?php 
-      $rand = rand(1, 3);
 
-      if ($rand == 1) {
-        $var = 'Test every <span class="orange">idea.</span>';
-      }elseif($rand == 2){
-        $var = 'Testing is your <span class="orange">advantage.</span>';
-      }elseif($rand == 3){
-        $var = "There's a way to do it better. <span class='orange'>Find it.</span>";
-      }
-    ?>
-
-    <div class="container home">
+    <div class="container project">
 
       <!-- Main component for a primary marketing message or call to action -->
-      <div class="col-sm-12 col-md-8 col-md-offset-2">
-        <h1 class="droid"><?php echo $var; ?></h1>
-        <img class="homeImg" src="images/create-validate-iterate.png" alt="create-validate-iterate-CSorg">
+      <div class="jumbotron chancesmith">
+        <h1 class="visible-lg">Hello! I'm Chance Smith</h1>
+        <h1 class="hidden-lg">Hello! I'm Chance</h1>
+        <h2 class="visible-lg">Strategist | Leader | Developer</h2>
+        <p class="visible-lg">Here are the businesses and projects I'm excitedly apart of.</p>
+        <p>
+          <a class="btn btn-lg btn-primary" href="/tools.php" role="button">Tools I use &raquo;</a>
+        </p>
+      </div>
+      
+      <div class="jumbotron blog">
+        <h1>Daily Strategy</h1>
+        <p>Here daily posts go out on projects I'm working on. In the world of strategy there is more learning then there is success. I wear the amateur hat proudly, for I am always begging to learn more.</p>
+        <p>Please join me. Suggest ideas. I welcome you!</p>
+        <p>
+          <a class="btn btn-lg btn-primary" href="blog.chancesmith.org" role="button">View the blog &raquo;</a>
+        </p>
+      </div>
+
+      <div class="jumbotron workshop">
+        <h1>Onboarding Workshop</h1>
+        <p>Do you need to grow your team fast? Do you have high turnover?</p>
+        <p>I'll save you time and money by helping you build a process to onboard new hires quickly. The only difficult part will be getting rockstars to interview.</p>
+        <p>Limited: 12 of 12 slots remaining this 2015. Application only.</p>
+        <p>
+          <a class="btn btn-lg btn-primary" href="https://chance3.typeform.com/to/xYvHeP" role="button">Apply for Workshop &raquo;</a>
+        </p>
+      </div>
+
+      <div class="jumbotron otherProjects">
+        <h1>Side Projects</h1>
+        <p>There are always other irons in the fire. I have some side items that I've put up here. I hope by adding these projects someone will find a use for them or get inspired.</p>
+        <p>
+          <a class="btn btn-lg btn-primary" href="/projects.php" role="button">View other projects &raquo;</a>
+        </p>
       </div>
 
     </div> <!-- /container -->
@@ -51,12 +68,5 @@
     <!-- Include all compiled plugins (below), or include individual files as needed -->
     <script src="_/js/bootstrap-ck.js"></script>
     <script src="_/js/myscript-ck.js"></script>
-    <script>
-        $( document ).ready(function() {
-          $( "#nav" ).fadeIn( "slow", function() {
-            //done
-          });
-        });
-    </script>
   </body>
 </html>

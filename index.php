@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>ChanceSmith.org</title>
+    <title>Test Every Idea | ChanceSmith.org</title>
 
     <!-- Bootstrap -->
     <link href="_/css/bootstrap.css" rel="stylesheet">
@@ -27,53 +27,35 @@
       <div class="jumbotron chancesmith">
         <h1 class="visible-lg">Hello! I'm Chance Smith</h1>
         <h1 class="hidden-lg">Hello! I'm Chance</h1>
-        <h2 class="visible-lg">Strategist | Developer | Leader</h2>
+        <h2 class="visible-lg">Strategist | Leader | Developer</h2>
         <p class="visible-lg">Here are the businesses and projects I'm excitedly apart of.</p>
         <p>
-          <a class="btn btn-lg btn-primary" href="/tools.php" role="button">Tools I use &raquo;</a>
+          <a class="btn btn-lg btn-primary" href="#blog" role="button">See more &raquo;</a>
+        </p>
+      </div>
+      
+      <div class="jumbotron blog" id="blog">
+        <h1>Daily Strategy</h1>
+        <p>In the world of strategy there is more learning then there is success. I wear the amateur hat proudly because I am always learning more.</p>
+        <p>Please join me. Suggest ideas. I welcome you!</p>
+        <p>
+          <a class="btn btn-lg btn-primary" href="blog.chancesmith.org" role="button">View the blog &raquo;</a>
         </p>
       </div>
 
-      <div class="jumbotron sh">
-        <h1>Sodium Halogen</h1>
-        <p>After combining part-time work and an internship with this UX design firm I am now full-time as the Strategic Innovationist. My roll includes project management, business strategy/analytics, and web development. Sometimes I journey out to collect drops of tiger blood and unicorn tears.</p>
-        <p>Checkout the current Sodium Halogen site.</p>
+      <div class="jumbotron workshop">
+        <h1>Onboarding Workshop</h1>
+        <p>Do you need to grow your team fast? Do you have high turnover?</p>
+        <p>I'll save you money by helping you build a process to onboard new hires quickly. The only difficult part will be getting rockstars to interview.</p>
+        <p>Limited: 12 of 12 slots remaining this 2015.</p>
         <p>
-          <a class="btn btn-lg btn-primary" href="http://sodiumhalogen.com" role="button">View the site &raquo;</a>
-        </p>
-      </div>
-
-      <div class="jumbotron bjl">
-        <h1>Better Job Landing</h1>
-        <p>In an attempt to help applicants find great employers to work for, and help employers find great employees to hire, I founded and built BJL. </p>
-        <p>To see the progress on v3.0 thus far checkout the site.</p>
-        <p>
-          <a class="btn btn-lg btn-primary" href="http://betterjoblanding.com" role="button">View the site &raquo;</a>
-        </p>
-      </div>
-
-      <div class="jumbotron wcs">
-        <h1>Wolfgang Computer Service</h1>
-        <p>This is where I learned web development. I needed a website to help advertise my computer repair business. I still help Jackson, TN business clients with their computer configurations. I've successfully completed an abundant amount of network setups, website changes and virus removals.</p>
-        <p>Remote support has been my focus the past 2 years.</p>
-        <p>
-          <a class="btn btn-lg btn-primary" href="http://wolfgangcomputer.com" role="button">View the site &raquo;</a>
-        </p>
-      </div>
-
-      <div class="jumbotron sk">
-        <h1>Smoothie King</h1>
-        <h2>Jackson, TN</h2>
-        <p>With the focus on health and community I'm continuously ecstatic about helping the local franchise owner Matt Ingram with his store and team.</p>
-        <p>6 years with Smoothie King and over 12 years of restaurant experience. It's nice to have this still part of my work week.</p>
-        <p>
-          <a class="btn btn-lg btn-primary" href="http://skjackson.com" role="button">View our site &raquo;</a>
+          <a class="btn btn-lg btn-primary" href="https://chance3.typeform.com/to/xYvHeP" role="button">Apply for Workshop &raquo;</a>
         </p>
       </div>
 
       <div class="jumbotron otherProjects">
-        <h1>Other Projects</h1>
-        <p>There are always other irons in the fire. I have some side items that I've put up. I hope by adding this category it will push me to make more and do more.</p>
+        <h1>Side Projects</h1>
+        <p>There are always other irons in the fire. I have some side items that I've put up here. I hope by adding these projects someone will find a use for them or get inspired.</p>
         <p>
           <a class="btn btn-lg btn-primary" href="/projects.php" role="button">View other projects &raquo;</a>
         </p>
