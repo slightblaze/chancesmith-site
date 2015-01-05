@@ -18,6 +18,7 @@
         <li class="dropdown">
           <a href="#" class="dropdown-toggle" data-toggle="dropdown">Projects <b class="caret"></b></a>
           <ul class="dropdown-menu">
+            <li><a href="/project/">All Projects</a></li>
             <!-- <li><a href="/project/">Availability App</a></li> -->
             <li><a href="/project/signature-app">Email Signature Creator</a></li>
             <li><a href="/project/project-my-sales">Project My Sales</a></li>
