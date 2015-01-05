@@ -30,9 +30,21 @@
 
       <div class="jumbotron pms">
         <h1>Project My Sales</h1>
+        <p>This is a web application that helps you draw names for gifts for any event. I built this for our family Christmas gift trading.</p>
+        <p>
+          <a class="btn btn-lg btn-primary" href="http://blog.chancesmith.org/gift-match-app/" role="button">Blog post &raquo;</a>
+          <a class="btn btn-lg btn-primary" href="/project/giftmatch" role="button">Demo &raquo;</a>
+          <a class="btn btn-lg btn-primary" href="https://github.com/chancesmith/chancesmith-site/tree/master/project/giftmatch" role="button">Github &raquo;</a>
+        </p>
+      </div>
+
+      <div class="jumbotron pms">
+        <h1>Project My Sales</h1>
         <p>Great way to project the amount of sales for the month and year. Enter the amount of income so far this month and it will project the rest of the month.</p>
         <p>
-          <a class="btn btn-lg btn-primary" href="/project/project-my-sales" role="button">Project My Sales &raquo;</a>
+          <a class="btn btn-lg btn-primary" href="http://blog.chancesmith.org/project-my-sales/" role="button">Blog post &raquo;</a>
+          <a class="btn btn-lg btn-primary" href="/project/project-my-sales" role="button">Demo &raquo;</a>
+          <a class="btn btn-lg btn-primary" href="https://github.com/chancesmith/chancesmith-site/tree/master/project/project-my-sales" role="button">Github &raquo;</a>
         </p>
       </div>
 

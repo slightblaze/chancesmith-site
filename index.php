@@ -36,8 +36,8 @@
       
       <div class="jumbotron blog" id="blog">
         <h1>Daily Strategy</h1>
-        <p>In the world of strategy there is more learning then there is success. I wear the amateur hat proudly because I am always learning more.</p>
-        <p>Please join me. Suggest ideas. I welcome you!</p>
+        <p>In the world of strategy there is more learning then there is success. I wear the amateur hat proudly because I am always learning.</p>
+        <p>Learn with me. Suggest ideas. I welcome you!</p>
         <p>
           <a class="btn btn-lg btn-primary" href="blog.chancesmith.org" role="button">View the blog &raquo;</a>
         </p>
