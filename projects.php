@@ -25,11 +25,12 @@
 
       <!-- Main component for a tools -->
       <div class="jumbotron">
-        <h1>Projects I started or help with</h1>
+        <h1>Latest Projects</h1>
       </div>
 
       <div class="jumbotron pms">
-        <h1>Project My Sales</h1>
+        <h1>Gift Match App</h1>
+        <p><strong>Aug 2014</strong></p>
         <p>This is a web application that helps you draw names for gifts for any event. I built this for our family Christmas gift trading.</p>
         <p>
           <a class="btn btn-lg btn-primary" href="http://blog.chancesmith.org/gift-match-app/" role="button">Blog post &raquo;</a>
@@ -39,17 +40,25 @@
       </div>
 
       <div class="jumbotron pms">
+        <h1>Email Signature App</h1>
+        <p><strong>Feb 2014</strong></p>
+        <p>Allow your company's team to create their on designed email signature. This is a application that will help your customer create their own email signatures once you have designed it.</p>
+        <p>
+          <a class="btn btn-lg btn-primary" href="http://blog.chancesmith.org/gift-match-app/" role="button">Blog post &raquo;</a>
+          <a class="btn btn-lg btn-primary" href="/project/giftmatch" role="button">Demo &raquo;</a>
+          <a class="btn btn-lg btn-primary" href="https://github.com/chancesmith/chancesmith-site/tree/master/project/giftmatch" role="button">Github &raquo;</a>
+        </p>
+      </div>
+
+      <div class="jumbotron pms">
         <h1>Project My Sales</h1>
+        <p><strong>April 2012</strong></p>
         <p>Great way to project the amount of sales for the month and year. Enter the amount of income so far this month and it will project the rest of the month.</p>
         <p>
           <a class="btn btn-lg btn-primary" href="http://blog.chancesmith.org/project-my-sales/" role="button">Blog post &raquo;</a>
           <a class="btn btn-lg btn-primary" href="/project/project-my-sales" role="button">Demo &raquo;</a>
           <a class="btn btn-lg btn-primary" href="https://github.com/chancesmith/chancesmith-site/tree/master/project/project-my-sales" role="button">Github &raquo;</a>
         </p>
-      </div>
-
-      <div class="jumbotron">
-        <h1>More to come...</h1>
       </div>
 
     </div> <!-- /container -->

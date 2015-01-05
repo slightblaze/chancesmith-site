@@ -61,10 +61,6 @@
         </p>
       </div>
 
-      <div class="jumbotron">
-        <h1>More to come...</h1>
-      </div>
-
     </div> <!-- /container -->
 
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
