@@ -2,8 +2,9 @@ RewriteEngine on
 Redirect /bucketlist /bucketlist.php
 RewriteCond %{HTTP_HOST} ^chancesmith\.org$ [OR]
 RewriteCond %{HTTP_HOST} ^www\.chancesmith\.org$
-RewriteRule ^meeting$ "https\:\/\/calendly\.com\/chance\/" [R=301,L]
+RewriteRule ^meeting$ "https\:\/\/calendly\.com\/chance\/30min\/" [R=301,L]
 
+Redirect /meet https://calendly.com/chance/30min
 Redirect /bucketlist /bucketlist.php
 Redirect /churchupdates https://chance3.typeform.com/to/FUjuUo
 Redirect /church-updates https://chance3.typeform.com/to/FUjuUo
